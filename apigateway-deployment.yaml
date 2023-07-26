@@ -1,16 +1,16 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: api_gateway
+  name: apigateway
 spec:
   replicas: 1
   template:
     metadata:
       labels:
-        app: api_gateway
+        app: apigateway
     spec:
       containers:
-        - image: "yamurillo/api_gateway"
+        - image: "yamurillo/apigateway"
           imagePullPolicy: IfNotPresent
           name: api_gateway
           ports:
