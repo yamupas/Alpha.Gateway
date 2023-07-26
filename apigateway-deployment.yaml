@@ -12,7 +12,7 @@ spec:
       containers:
         - image: "yamurillo/apigateway"
           imagePullPolicy: IfNotPresent
-          name: api_gateway
+          name: apigateway
           ports:
             - containerPort: 80
 
