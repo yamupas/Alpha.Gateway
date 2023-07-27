@@ -1,19 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: apigateway
+  name: alpha-api-gateway
+  labels:
+    app: alpha-api-gateway
 spec:
-  replicas: 1
+  replicas: 2
+  selector:
+    matchLabels:
+      app: alpha-api-gateway
   template:
     metadata:
       labels:
-        app: apigateway
+        app: alpha-api-gateway
     spec:
       containers:
-        - image: "yamurillo/apigateway"
-          imagePullPolicy: IfNotPresent
-          name: apigateway
-          ports:
-            - containerPort: 80
-
-
+      - name: alpha-api-gateway
+        image: "yamurillo/api_gateway:7"
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 80
