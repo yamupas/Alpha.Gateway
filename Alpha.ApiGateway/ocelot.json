@@ -505,6 +505,6 @@
 
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:80"
+    "BaseUrl": "http://a10b7bb94db5b4356b6b68bb8a5f3053-1886419929.us-east-1.elb.amazonaws.com"
   }
 }
