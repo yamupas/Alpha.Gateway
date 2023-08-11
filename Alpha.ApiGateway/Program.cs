@@ -24,7 +24,7 @@ namespace Alpha.ApiGateway
                 })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseUrls("http://localhost:9000");
+                   // webBuilder.UseUrls("http://localhost:9000");
                     webBuilder.UseStartup<Startup>();
                 });
     }
