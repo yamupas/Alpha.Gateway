@@ -1,10 +1,12 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: apigateway
+  name: alpha-gateway
 spec:
   type: LoadBalancer
   ports:
   - port: 80
+    protocol: TCP
+    targetPort: 80
   selector:
-    app: alpha-api-gateway
+    app: alpha-gateway

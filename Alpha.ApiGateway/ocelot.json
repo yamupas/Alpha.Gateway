@@ -8,8 +8,8 @@
       "DownstreamPathTemplate": "/api/Identity/authentication",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3001
+          "Host": "http://10.100.169.149",
+          "Port": 80
         }
       ]
     },
@@ -20,8 +20,8 @@
       "DownstreamPathTemplate": "/api/Identity/change_password",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3001
+          "Host": "http://10.100.169.149",
+          "Port": 80
         }
       ]
     },
@@ -122,8 +122,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -137,8 +137,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -152,8 +152,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -167,8 +167,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -182,8 +182,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -198,8 +198,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -216,8 +216,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -235,8 +235,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -250,8 +250,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -265,8 +265,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -280,8 +280,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -295,8 +295,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -314,8 +314,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -333,8 +333,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -348,8 +348,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -363,8 +363,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -378,8 +378,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -396,8 +396,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -414,8 +414,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -429,8 +429,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -444,8 +444,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 3003
+          "Host": "10.100.124.74",
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {
@@ -471,18 +471,17 @@
       }
     },
     {
-      "UpstreamPathTemplate": "/default",
-      "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamPathTemplate": "/api/default",
+      "DownstreamPathTemplate": "/",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 9000
+          "Host": "a6fab651fd0bb413eb5713af9923ee05-1419034668.us-east-1.elb.amazonaws.com",
+          "Port": 80
         }
-
-      ]
-    },
+      ],
+      "UpstreamPathTemplate": "/",
+      "UpstreamHttpMethod": [ "Get" ]
+    },   
     {
       "UpstreamPathTemplate": "/check_roles",
       "UpstreamHttpMethod": [ "Put" ],
@@ -491,7 +490,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 3003
+          "Port": 80
         }
       ],
       "AuthenticationOptions": {

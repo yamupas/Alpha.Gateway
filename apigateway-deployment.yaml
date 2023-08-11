@@ -1,22 +1,23 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: alpha-api-gateway
   labels:
-    app: alpha-api-gateway
+    app: alpha-gateway
+  name: alpha-gateway
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
-      app: alpha-api-gateway
+      app: alpha-gateway
   template:
     metadata:
       labels:
-        app: alpha-api-gateway
+        app: alpha-gateway
     spec:
       containers:
-      - name: alpha-api-gateway
-        image: "yamurillo/api_gateway:7"
-        imagePullPolicy: IfNotPresent
+      - image: 957006048645.dkr.ecr.us-east-1.amazonaws.com/alphahrms_gateway:latest
+        name: alpha-gateway
+        imagePullPolicy: Always
         ports:
-        - containerPort: 80
+            - name: tcp
+              containerPort: 80
