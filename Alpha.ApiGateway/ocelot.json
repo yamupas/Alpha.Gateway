@@ -8,7 +8,7 @@
       "DownstreamPathTemplate": "/api/Identity/authentication",
       "DownstreamHostAndPorts": [
         {
-          "Host": "http://10.100.169.149",
+          "Host": "a6fab651fd0bb413eb5713af9923ee05-1419034668.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ]
@@ -20,7 +20,7 @@
       "DownstreamPathTemplate": "/api/Identity/change_password",
       "DownstreamHostAndPorts": [
         {
-          "Host": "http://10.100.169.149",
+          "Host": "a6fab651fd0bb413eb5713af9923ee05-1419034668.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ]
@@ -122,7 +122,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -137,7 +137,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -152,7 +152,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -167,7 +167,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -182,7 +182,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -198,7 +198,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -216,7 +216,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -235,7 +235,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -250,7 +250,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -265,7 +265,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -280,7 +280,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -295,7 +295,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -314,7 +314,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -333,7 +333,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -348,7 +348,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -363,7 +363,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -378,7 +378,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -396,7 +396,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -414,7 +414,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -429,7 +429,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
@@ -444,7 +444,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "10.100.124.74",
+          "Host": "a657e98153bee4887822656a4ee9ce62-718712640.us-east-1.elb.amazonaws.com",
           "Port": 80
         }
       ],
